@@ -1,0 +1,61 @@
+This project is based on parallel programming.Our CPU can perform tasks serially but GPU performs tasks 
+Parallely with many cores present.After performing, it has been concluded that GPU is much faster than CPU.
+The evidence came in picture during the runtime of processing of codes.
+
+REQUIREMENTS:
+NVIDIA JETSON TK1 BOARD
+LAPTOP OR HDMI DISPLAY
+KEYBOARD
+MOUSE
+HDMI CABLE
+
+GETTING STARTED:
+To install board,refer this video:
+https://www.youtube.com/watch?v=J-ma4aZyqfY
+Download the NVIDIA toolkit as per OS from :
+https://developer.nvidia.com/cuda-downloads
+
+
+PRIOR KNOWLEDGE:
+C or C++ LANGUAGE.
+
+REFERNCE:
+A pdf is attached in this folder ,which can be refered for gainign knowledge.Its sourced from nvidia site itself.
+Plenty of videos and refernce notes are available on Nvidia site for going through it.It also enables user to 
+learn Machine Learning,AI,Computer Vision also through more diffrent platforms like MATLAB,PYTHON,etc. 
+
+
+INTRO TO CUDA:
+CUDA is a parallel computing platform and programming model developed by NVIDIA for general computing
+on graphical processing units (GPUs). With CUDA developers are able to dramatically speed up computing
+applications by harnessing the power of GPUs.In GPU-accelerated applications, the sequential part of
+the workload runs on the CPU – which is optimized for single-threaded performance – while the compute 
+intensive portion of the application runs on thousands of GPU cores in parallel.When using CUDA, 
+developers program in popular languages such as C, C++,Fortran, Python and MATLAB and express parallelism 
+through extensions in the form of a few basic keywords. 
+
+AREA OF INTEREST:
+STUDYING MATHEMATICAL FUNCTIONS AND IMPLEMENTING IN IT JETSON TK1 BOARD.(for faster processing)
+
+Codes are performed and are also implemented on JETSON TK1 board.These codes contain operations related 
+to mathematics.As we know that maths is a field used in daily life and important to get our tasks done using 
+computer.This project aims on that mathemtical functions like vectors , matrix , calculus functions ,etc.
+The topic of the code is given in the code itself. The aim behind these several code is to compute and compet between 
+CPU and GPU as well as mathematical orders implementation.Parallel computing is the future of faster processing 
+of our task accomplishments.
+
+
+
+ALETERNATIVE:
+You can also run a simulator of the above board and program your code in CUDA language by downloading necessary files
+in Ubuntu.The codes can also be compiled by downloading toolkit and running it in Ubuntu.,
+
+
+
+
+
+
+
+
+
+
